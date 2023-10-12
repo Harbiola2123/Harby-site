@@ -21,7 +21,7 @@ JOBS = [
         "id": 3,
         "title": "Full-Statck_Developer",
         "location": "Lagos,Nigeria",
-        "salary": "200$"
+        "salary": "260$"
     }
 ]
 
